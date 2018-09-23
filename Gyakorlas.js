@@ -1,3 +1,4 @@
+let joGyozott = 0;
 let varazslok = { gandalfTheGrey: { hp: 10, hpMax: 10, mp: 17, mpMax: 17, xp:0,
 },
 gandalfTheWhite: {hp: 0, hpMax: 20,  mp: 0, mpMax: 34, xp:0,
@@ -17,6 +18,12 @@ let varazslatok = { slash: { damage: 1, mpCost: 0, effect:"" },
                     manaDrain: {damage: 0, mpCost: 3, effect:"drain2" }, 
                     shadowOfMorgoth: {damage: 17, mpCost: 11, effect:"blind1" }
 };
-
-Math.floor(Math.random() * 10);
-
+for (i=0; i < 10; i++){
+  
+ let attacker = Math.floor(Math.random() * 10);
+  if (attacker < 2)
+  {
+  }
+  else {
+  }
+}
