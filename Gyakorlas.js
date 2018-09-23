@@ -8,4 +8,4 @@ greatBalrogOfMoria: {hp: 0, mp: 0, xp:0,
 }
 };
 
-Math.floor(Math.random() * 20);
+Math.floor(Math.random() * 10);
