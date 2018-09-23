@@ -1,4 +1,4 @@
-let Varazslok = { gandalfTheGrey: { hp: 10, hpMax: 10, mp: 17, mpMax: 17, xp:0,
+let varazslok = { gandalfTheGrey: { hp: 10, hpMax: 10, mp: 17, mpMax: 17, xp:0,
 },
 gandalfTheWhite: {hp: 0, hpMax: 20,  mp: 0, mpMax: 34, xp:0,
 },
