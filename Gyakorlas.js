@@ -8,4 +8,9 @@ greatBalrogOfMoria: {hp: 0, hpMax: 34, mp: 0, mpMax: 20, xp:0,
 }
 };
 
+let varazslatok = { slash: { }, smite: { }, heal: { }, flameOfAnor {}, flameWhip: {}, burningBlade: {},
+
+}
+
 Math.floor(Math.random() * 10);
+
