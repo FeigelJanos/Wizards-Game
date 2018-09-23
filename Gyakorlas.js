@@ -7,3 +7,5 @@ balrogOfMoria: {hp: 17, mp: 10, xp:0,
 greatBalrogOfMoria: {hp: 0, mp: 0, xp:0,
 }
 };
+
+Math.floor(Math.random() * (max - min + 1)) + min
