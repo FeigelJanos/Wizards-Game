@@ -23,6 +23,10 @@ for (i=0; i < 10; i++){
  let attacker = Math.floor(Math.random() * 10);
   if (attacker <= 2)
   {
+    if(varazslok.gandalfTheGrey.exist == "true") {
+    }
+    else {
+    }
   }
   else {
   }
