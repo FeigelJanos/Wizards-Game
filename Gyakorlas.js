@@ -1,9 +1,9 @@
-let Varazslok = { gandalfTheGrey: {
+let Varazslok = { gandalfTheGrey: { hp: 0, mp: 0, xp:0,
 },
-gandalfTheWhite: {
+gandalfTheWhite: {hp: 0, mp: 0, xp:0,
 },
-balrogOfMoria: {
+balrogOfMoria: {hp: 0, mp: 0, xp:0,
 },
-greatBalrogOfMoria: {
+greatBalrogOfMoria: {hp: 0, mp: 0, xp:0,
 }
 };
