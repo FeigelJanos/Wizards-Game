@@ -21,7 +21,7 @@ let varazslatok = { slash: { damage: 1, mpCost: 0, effect:"" },
 for (i=0; i < 10; i++){
   
  let attacker = Math.floor(Math.random() * 10);
-  if (attacker < 2)
+  if (attacker <= 2)
   {
   }
   else {
